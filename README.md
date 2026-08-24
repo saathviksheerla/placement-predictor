@@ -59,3 +59,9 @@ Then open the local URL shown in the terminal.
 - placement_predictor_ml_model.pkl: trained model
 - placement_predictor_ml_scaler.pkl: feature scaler
 - requirements.txt: Python dependencies
+
+## Quick start
+
+1. Clone this repository.
+2. Install prerequisites from project files.
+3. Build and run the project's standard tests.
